@@ -1,0 +1,5 @@
+<map id="Edge" name="Edge">
+<area shape="rect" id="node1" title="A class representing an edge in a graph." alt="" coords="132,5,237,112"/>
+<area shape="rect" id="node2" href="$class_vertex.html" title="A class representing a vertex in a graph." alt="" coords="5,175,111,311"/>
+<area shape="rect" id="node3" href="$class_face.html" title="A class representing a face in a graph." alt="" coords="231,189,336,296"/>
+</map>

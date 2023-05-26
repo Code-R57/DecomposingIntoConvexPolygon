@@ -1,0 +1,5 @@
+<map id="check_notch" name="check_notch">
+<area shape="rect" id="node1" title="check_notch function checks if a vertex is a &quot;notch&quot; on the polygon." alt="" coords="5,5,101,31"/>
+<area shape="rect" id="node2" href="$_d_a_a_01_a_s_s_i_g_n_m_e_n_t_011_8cpp.html#a0705d5700157302f57bd26a5a1cd7be5" title="is_reflex function checks if the cross product of the vertices is negative" alt="" coords="149,5,220,31"/>
+<area shape="rect" id="node3" href="$_d_a_a_01_a_s_s_i_g_n_m_e_n_t_011_8cpp.html#aefc2e5517df84626ae4c07151f4c1f38" title="cross_product function calculates the cross product of the three vertices" alt="" coords="268,5,372,31"/>
+</map>

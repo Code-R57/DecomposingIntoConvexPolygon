@@ -1,0 +1,14 @@
+<map id="decompose_polygon" name="decompose_polygon">
+<area shape="rect" id="node1" title="decompose_polygon function decomposes a simple polygon into monotone polygons by adding diagonals bet..." alt="" coords="5,183,147,208"/>
+<area shape="rect" id="node2" href="$class_d_c_e_l.html#ae1e0ddd9e61cbb5e46587fcaa016420e" title="add_diagonal function adds a diagonal to a convex polygon" alt="" coords="212,5,352,31"/>
+<area shape="rect" id="node3" href="$_d_a_a_01_a_s_s_i_g_n_m_e_n_t_011_8cpp.html#a5a5995f2ab49e0e3147909792294021f" title=" " alt="" coords="241,107,323,132"/>
+<area shape="rect" id="node4" href="$class_d_c_e_l.html#a061a20bb35b45ac685e7bdda8ed0adde" title="get_next_vertex function returns the next vertex in the cyclic order around a vertex" alt="" coords="417,57,572,83"/>
+<area shape="rect" id="node6" href="$_d_a_a_01_a_s_s_i_g_n_m_e_n_t_011_8cpp.html#a0705d5700157302f57bd26a5a1cd7be5" title="is_reflex function checks if the cross product of the vertices is negative" alt="" coords="459,169,530,195"/>
+<area shape="rect" id="node8" href="$_d_a_a_01_a_s_s_i_g_n_m_e_n_t_011_8cpp.html#aba868ab16649979714e28287efb71272" title=" " alt="" coords="246,208,318,233"/>
+<area shape="rect" id="node9" href="$_d_a_a_01_a_s_s_i_g_n_m_e_n_t_011_8cpp.html#ad6c46d3ce02fdfc444f36de37c144ef9" title="is_in_polygon function determines whether a given vertex is inside a polygon" alt="" coords="231,257,333,283"/>
+<area shape="rect" id="node11" href="$class_rectangle.html#ad51f26a484862c3b50fe1294c70b95b6" title="Check if a vertex is inside the rectangle." alt="" coords="195,307,369,332"/>
+<area shape="rect" id="node12" href="$_d_a_a_01_a_s_s_i_g_n_m_e_n_t_011_8cpp.html#a88f0bcaa3b46230604292201b70ad5ad" title="remove_common_vertex function removes the common vertices between two vertex vectors" alt="" coords="201,356,363,381"/>
+<area shape="rect" id="node5" href="$class_d_c_e_l.html#a8eb52b0a66ee1a3b8328f0bcd94854de" title="get_prev_vertex function returns the previous vertex in the cyclic order around a vertex" alt="" coords="418,107,571,132"/>
+<area shape="rect" id="node7" href="$_d_a_a_01_a_s_s_i_g_n_m_e_n_t_011_8cpp.html#aefc2e5517df84626ae4c07151f4c1f38" title="cross_product function calculates the cross product of the three vertices" alt="" coords="620,220,724,245"/>
+<area shape="rect" id="node10" href="$_d_a_a_01_a_s_s_i_g_n_m_e_n_t_011_8cpp.html#a49561613b50ccffcd06a6a40e85044c2" title="is_type gives values 0 , 1 , &#45;1 if the cross_prod is 0 , positive and negative" alt="" coords="463,244,527,269"/>
+</map>

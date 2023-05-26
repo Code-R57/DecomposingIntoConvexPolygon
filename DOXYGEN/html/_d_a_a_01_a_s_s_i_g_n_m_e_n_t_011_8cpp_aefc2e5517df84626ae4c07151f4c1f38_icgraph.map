@@ -1,0 +1,13 @@
+<map id="cross_product" name="cross_product">
+<area shape="rect" id="node1" title="cross_product function calculates the cross product of the three vertices" alt="" coords="796,181,900,207"/>
+<area shape="rect" id="node2" href="$_d_a_a_01_a_s_s_i_g_n_m_e_n_t_011_8cpp.html#a0705d5700157302f57bd26a5a1cd7be5" title="is_reflex function checks if the cross product of the vertices is negative" alt="" coords="677,132,748,157"/>
+<area shape="rect" id="node10" href="$_d_a_a_01_a_s_s_i_g_n_m_e_n_t_011_8cpp.html#a49561613b50ccffcd06a6a40e85044c2" title="is_type gives values 0 , 1 , &#45;1 if the cross_prod is 0 , positive and negative" alt="" coords="681,205,745,231"/>
+<area shape="rect" id="node3" href="$_d_a_a_01_a_s_s_i_g_n_m_e_n_t_011_8cpp.html#a0ce8ef58209bebd307f14e8667c71ab5" title="check_notch function checks if a vertex is a &quot;notch&quot; on the polygon." alt="" coords="361,56,457,81"/>
+<area shape="rect" id="node5" href="$_d_a_a_01_a_s_s_i_g_n_m_e_n_t_011_8cpp.html#af4d1aaa1953a4d89e3491692e61047d1" title="decompose_polygon function decomposes a simple polygon into monotone polygons by adding diagonals bet..." alt="" coords="339,157,480,183"/>
+<area shape="rect" id="node7" href="$_d_a_a_01_a_s_s_i_g_n_m_e_n_t_011_8cpp.html#a5a5995f2ab49e0e3147909792294021f" title=" " alt="" coords="538,157,619,183"/>
+<area shape="rect" id="node8" href="$_d_a_a_01_a_s_s_i_g_n_m_e_n_t_011_8cpp.html#aba868ab16649979714e28287efb71272" title=" " alt="" coords="543,207,615,232"/>
+<area shape="rect" id="node9" href="$_d_a_a_01_a_s_s_i_g_n_m_e_n_t_011_8cpp.html#a8e1fd5a10706fb040583cf6174bc3e14" title="merging_process function removes the diagonal if possible from the two faces possible and it still re..." alt="" coords="137,5,258,31"/>
+<area shape="rect" id="node4" href="$_d_a_a_01_a_s_s_i_g_n_m_e_n_t_011_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,56,56,81"/>
+<area shape="rect" id="node6" href="$_d_a_a_01_a_s_s_i_g_n_m_e_n_t_011_8cpp.html#acbbe282db2690a2c1bd9d010308d3c8c" title="vertex_dependecy_process function decomposes" alt="" coords="104,132,291,157"/>
+<area shape="rect" id="node11" href="$_d_a_a_01_a_s_s_i_g_n_m_e_n_t_011_8cpp.html#ad6c46d3ce02fdfc444f36de37c144ef9" title="is_in_polygon function determines whether a given vertex is inside a polygon" alt="" coords="528,256,629,281"/>
+</map>

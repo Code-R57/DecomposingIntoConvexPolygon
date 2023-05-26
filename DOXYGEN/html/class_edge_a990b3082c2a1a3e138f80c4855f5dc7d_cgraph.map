@@ -1,0 +1,4 @@
+<map id="Edge::Edge" name="Edge::Edge">
+<area shape="rect" id="node1" title="Constructor for the Edge class." alt="" coords="5,5,96,31"/>
+<area shape="rect" id="node2" href="$class_edge.html#a3106b11d60125009dbf7a738ce540fdf" title="A pointer to the previous edge in a face&#39;s boundary." alt="" coords="144,5,235,31"/>
+</map>

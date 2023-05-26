@@ -1,0 +1,5 @@
+<map id="DCEL::merge" name="DCEL::merge">
+<area shape="rect" id="node1" title="merge function merges two edges in the DCEL by removing the diagonal between them" alt="" coords="5,31,105,56"/>
+<area shape="rect" id="node2" href="$class_d_c_e_l.html#a07b432393e0986f5fcfcff94d65d1b2c" title="splice function splices two edges in the DCEL by changing their next and previous pointers" alt="" coords="153,5,252,31"/>
+<area shape="rect" id="node3" href="$class_d_c_e_l.html#a00113868c70cb762f1b0039edd2fa98b" title="split function splits an edge in the DCEL by adding a new vertex" alt="" coords="159,55,247,80"/>
+</map>
